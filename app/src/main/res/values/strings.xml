@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auth0-Lock-Trial</string>
+    <string name="com_auth0_client_id">U1bc0PLQrC3z6kzg3QLvvaG0GdPIYJot</string>
+    <string name="com_auth0_domain">dev-knuvf6fj.auth0.com</string>
+</resources>
